@@ -1,0 +1,68 @@
+h1 {color: midnightblue;
+	font-size:35pt; 
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+	text-shadow: 3px 2px turquoise;
+	border:1px solid powderblue;
+    outline: 5px dotted midnightblue;
+    padding: 1cm}
+
+h2 {color: turquoise;}
+
+h3 {color: midnightblue;
+	text-shadow: 3px 2px turquoise;}
+
+h4 {color: turquoise;
+	font-size: 27pt;
+	border:1px solid powderblue;
+    outline: 5px dotted midnightblue;
+    padding: 1cm;
+    }
+h5 {color: midnightblue;
+	font-size:25pt; 
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+	text-shadow: 3px 2px turquoise;}
+
+h6 {color: midnightblue;
+	font-size: 20pt;
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+	}
+
+h7 {color: midnightblue;
+	font-size: 20pt;
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+	}
+
+body {
+	background: aliceblue;
+	color: black;
+	font-size: 20pt;
+	font-family: 'Dosis', sans-serif;
+	}
+	
+.special {
+	background: midnightblue;
+	
+	
+	}	
+	
+nav li {
+	display: inline-block;
+	border: 2px solid black;
+	background: black;
+	padding: 25px;
+	}
+a {color: turquoise;
+	text-decoration: none;
+	font-size: 25pt}
+	
+a:hover {color: white;}
+
+
+
+td, th { text-align:center }
+
+
